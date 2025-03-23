@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lingyunxiao.github.io/sitemap.xml
+Sitemap: https://lingyunxiao18.github.io/sitemap.xml
