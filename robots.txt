@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lingyunxiao.github.io/sitemap.xml
